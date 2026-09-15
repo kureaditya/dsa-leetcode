@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/kureaditya/dsa-leetcode/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/kureaditya/dsa-leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/kureaditya/dsa-leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/kureaditya/dsa-leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/kureaditya/dsa-leetcode/tree/master/0290-word-pattern) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/kureaditya/dsa-leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kureaditya/dsa-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/kureaditya/dsa-leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Counting
