@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/kureaditya/dsa-leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/kureaditya/dsa-leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/kureaditya/dsa-leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/kureaditya/dsa-leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Queue
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/kureaditya/dsa-leetcode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/kureaditya/dsa-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/kureaditya/dsa-leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/kureaditya/dsa-leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/kureaditya/dsa-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0881-boats-to-save-people](https://github.com/kureaditya/dsa-leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/kureaditya/dsa-leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/kureaditya/dsa-leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/kureaditya/dsa-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0881-boats-to-save-people](https://github.com/kureaditya/dsa-leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/kureaditya/dsa-leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/kureaditya/dsa-leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Counting
 |  |
 | ------- |
