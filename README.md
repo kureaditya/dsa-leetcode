@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/kureaditya/dsa-leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/kureaditya/dsa-leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/kureaditya/dsa-leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/kureaditya/dsa-leetcode/tree/master/0392-is-subsequence) |
 | [1208-get-equal-substrings-within-budget](https://github.com/kureaditya/dsa-leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 ## Binary Search
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/kureaditya/dsa-leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/kureaditya/dsa-leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/kureaditya/dsa-leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/kureaditya/dsa-leetcode/tree/master/0392-is-subsequence) |
 | [0881-boats-to-save-people](https://github.com/kureaditya/dsa-leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/kureaditya/dsa-leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/kureaditya/dsa-leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/kureaditya/dsa-leetcode/tree/master/0881-boats-to-save-people) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/kureaditya/dsa-leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
