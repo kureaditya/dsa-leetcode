@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/kureaditya/dsa-leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/kureaditya/dsa-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1208-get-equal-substrings-within-budget](https://github.com/kureaditya/dsa-leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kureaditya/dsa-leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/kureaditya/dsa-leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/kureaditya/dsa-leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/kureaditya/dsa-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/kureaditya/dsa-leetcode/tree/master/0392-is-subsequence) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/kureaditya/dsa-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1208-get-equal-substrings-within-budget](https://github.com/kureaditya/dsa-leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kureaditya/dsa-leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Binary Search
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/kureaditya/dsa-leetcode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/kureaditya/dsa-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/kureaditya/dsa-leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/kureaditya/dsa-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/kureaditya/dsa-leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kureaditya/dsa-leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sorting
