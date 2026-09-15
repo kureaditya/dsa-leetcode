@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/kureaditya/dsa-leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/kureaditya/dsa-leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/kureaditya/dsa-leetcode/tree/master/0290-word-pattern) |
+| [0344-reverse-string](https://github.com/kureaditya/dsa-leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/kureaditya/dsa-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1208-get-equal-substrings-within-budget](https://github.com/kureaditya/dsa-leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 ## Binary Search
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/kureaditya/dsa-leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kureaditya/dsa-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/kureaditya/dsa-leetcode/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/kureaditya/dsa-leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/kureaditya/dsa-leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Counting
 |  |
