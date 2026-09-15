@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/kureaditya/dsa-leetcode/tree/master/0217-contains-duplicate) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/kureaditya/dsa-leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Queue
 |  |
@@ -38,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1208-get-equal-substrings-within-budget](https://github.com/kureaditya/dsa-leetcode/tree/master/1208-get-equal-substrings-within-budget) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/kureaditya/dsa-leetcode/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/kureaditya/dsa-leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
