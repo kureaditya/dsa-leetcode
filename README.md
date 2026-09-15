@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1208-get-equal-substrings-within-budget](https://github.com/kureaditya/dsa-leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/kureaditya/dsa-leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Heap (Priority Queue)
 |  |
@@ -25,4 +26,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/kureaditya/dsa-leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## String
+|  |
+| ------- |
+| [1208-get-equal-substrings-within-budget](https://github.com/kureaditya/dsa-leetcode/tree/master/1208-get-equal-substrings-within-budget) |
+## Binary Search
+|  |
+| ------- |
+| [1208-get-equal-substrings-within-budget](https://github.com/kureaditya/dsa-leetcode/tree/master/1208-get-equal-substrings-within-budget) |
+## Prefix Sum
+|  |
+| ------- |
+| [1208-get-equal-substrings-within-budget](https://github.com/kureaditya/dsa-leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 <!---LeetCode Topics End-->
