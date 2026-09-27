@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/kureaditya/dsa-leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kureaditya/dsa-leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kureaditya/dsa-leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1436-destination-city](https://github.com/kureaditya/dsa-leetcode/tree/master/1436-destination-city) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/kureaditya/dsa-leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kureaditya/dsa-leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/kureaditya/dsa-leetcode/tree/master/1652-defuse-the-bomb) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/kureaditya/dsa-leetcode/tree/master/0771-jewels-and-stones) |
 | [1208-get-equal-substrings-within-budget](https://github.com/kureaditya/dsa-leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kureaditya/dsa-leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1436-destination-city](https://github.com/kureaditya/dsa-leetcode/tree/master/1436-destination-city) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kureaditya/dsa-leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kureaditya/dsa-leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kureaditya/dsa-leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/kureaditya/dsa-leetcode/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/kureaditya/dsa-leetcode/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kureaditya/dsa-leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1436-destination-city](https://github.com/kureaditya/dsa-leetcode/tree/master/1436-destination-city) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kureaditya/dsa-leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kureaditya/dsa-leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/kureaditya/dsa-leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
