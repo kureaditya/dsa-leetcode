@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/kureaditya/dsa-leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/kureaditya/dsa-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/kureaditya/dsa-leetcode/tree/master/1052-grumpy-bookstore-owner) |
+| [1207-unique-number-of-occurrences](https://github.com/kureaditya/dsa-leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kureaditya/dsa-leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kureaditya/dsa-leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1436-destination-city](https://github.com/kureaditya/dsa-leetcode/tree/master/1436-destination-city) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/kureaditya/dsa-leetcode/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/kureaditya/dsa-leetcode/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/kureaditya/dsa-leetcode/tree/master/0904-fruit-into-baskets) |
+| [1207-unique-number-of-occurrences](https://github.com/kureaditya/dsa-leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kureaditya/dsa-leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1436-destination-city](https://github.com/kureaditya/dsa-leetcode/tree/master/1436-destination-city) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kureaditya/dsa-leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
