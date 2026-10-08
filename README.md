@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kureaditya/dsa-leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kureaditya/dsa-leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kureaditya/dsa-leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/kureaditya/dsa-leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/kureaditya/dsa-leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/kureaditya/dsa-leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/kureaditya/dsa-leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
